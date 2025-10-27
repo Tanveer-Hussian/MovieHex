@@ -29,7 +29,10 @@ MovieHex is a Flutter-based mobile application that allows users to explore movi
 
 <img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/f5ae1fa7-a55e-4f9d-bb63-bfe8bc809174"/>
 <img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/68d93ffa-52fb-4cbc-a0f4-389c81c49524"/>
+<br>
 <img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/529ba827-1f2f-403e-9e26-0d32bdf570a8"/>
+<img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/48c0b1ee-d889-4029-aa56-22263e8dba32"/>
+
 
 
 
